@@ -1,2 +1,2 @@
 # Rest API - Products
-Web Service RESTful with Spring Boot and Swagger.
+Web Service RESTful with Spring Boot, Swagger and PostgreSQL.
